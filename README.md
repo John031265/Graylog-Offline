@@ -10,7 +10,7 @@ The instructions are divided into 3 areas.
 2_GRAYLOGDATANODEINSTALL
 3_GRAYLOGSERVERINSTALL
 
-In each area is a text file FilesTo
+In each area is a text file LinksToFiles.txt. This file contains the links to all of the filews required per step. Download these files and put them in their respective directory and execute respectively Part1.sh, Part.sh and Part3.sh
 
 Current bugs
 - During Preflight step no Datanodes found
