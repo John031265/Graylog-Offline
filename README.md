@@ -9,8 +9,11 @@ Able to install the three module: MongoDB, Graylog-Datanode and Graylog-Server. 
 
 Instructions:
 The instructions are divided into 3 areas. 
+
 1_MONGODBINSTALL
+
 2_GRAYLOGDATANODEINSTALL
+
 3_GRAYLOGSERVERINSTALL
 
 Step1:
