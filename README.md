@@ -1,6 +1,9 @@
 # Graylog-Offline
 Steps for setting up Graylog offline. Currently under development until finalized.
 
+Installation steps are based on the Graylog Ubuntu installation steps found here:
+https://go2docs.graylog.org/current/downloading_and_installing_graylog/ubuntu_installation.htm
+
 Requirements:
 Ubuntu 24.04
 
