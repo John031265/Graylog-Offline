@@ -1,0 +1,10 @@
+# This is the network config written by 'subiquity'
+network:
+  ethernets:
+    eth0:
+      dhcp4: true
+      dhcp6: true
+      match:
+        macaddress: 00:15:5d:01:e3:8e
+      set-name: eth0
+  version: 2
