@@ -30,5 +30,7 @@ Step3:
 2. Download all files as outlined in the LinksToFiles.txt file
 3. Execute the Part3.sh script
 
+*The GraylogV1.zip contains all files in the structure above including scripts.
+
 Current bugs
 - During Preflight step no Datanodes found
