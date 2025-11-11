@@ -1,5 +1,8 @@
 # Graylog-Offline
-Steps for setting up Graylog offline. Currently under development until finalized. 
+Steps for setting up Graylog offline. Currently under development until finalized.
+
+Requirements:
+Ubuntu 24.04
 
 Current status
 Able to install the three module: MongoDB, Graylog-Datanode and Graylog-Server. All 3 modules with status green running and enabled
