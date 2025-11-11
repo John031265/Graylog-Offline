@@ -13,24 +13,20 @@ The instructions are divided into 3 areas.
 2_GRAYLOGDATANODEINSTALL
 3_GRAYLOGSERVERINSTALL
 
-In each area is a text file LinksToFiles.txt. This file contains the links to all of the filews required per step. Download these files and put them in their respective directory and execute respectively Part1.sh, Part.sh and Part3.sh
-
 Step1:
 1. Create the 1_MONGODBINSTALL directory
-2. Download all files as outlined in the LinksToFiles.txt file
-3. Execute the Part1.sh script
+2. Download all of the files in 1_MONGODBINSTALL
+3. Execute the script Step1.sh. The scipt will download the reuired files and install them respectivley.
 
 Step2:
 1. Create the 2_GRAYLOGDATANODEINSTALL directory
-2. Download all files as outlined in the LinksToFiles.txt file
-3. Execute the Part2.sh script
+2. Download all of the files in 2_GRAYLOGDATANODEINSTALL
+3. Execute the script Step2.sh. The scipt will download the reuired files and install them respectivley.
 
 Step3:
 1. Create the 3_GRAYLOGSERVERINSTALL directory
-2. Download all files as outlined in the LinksToFiles.txt file
-3. Execute the Part3.sh script
-
-*The GraylogV1.zip contains all files in the structure above including scripts.
+2. Download all of the files in the 3_GRAYLOGSERVERINSTALL
+3. Execute the script Step3.sh. The scipt will download the reuired files and install them respectivley.
 
 Current bugs
 - During Preflight step no Datanodes found
